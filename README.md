@@ -1,6 +1,6 @@
 # Hi there 👋
 # 	Frontline Human Rights Defender/Political Activist (Current, Volunteer)
-#   Dedicated Human Rights Defender/Political Activist from last 15-19 years in European Union Institutions and other forums till date.
+**Dedicated Human Rights Defender/Political Activist from last 15-19 years in European Union Institutions and other forums till date.**
 # Huge managerial experience in Human Rights environment.
 
 	Exceptional knowledge of human rights issues in cultural, social and economic spheres.
