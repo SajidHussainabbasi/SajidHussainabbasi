@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 # 	Frontline Human Rights Defender/Political Activist (Current, Volunteer)
-Dedicated Human Rights Defender/Political Activist from last 15-19 years in European Union Institutions and other forums till date.
-	Huge managerial experience in Human Rights environment.
+#   Dedicated Human Rights Defender/Political Activist from last 15-19 years in European Union Institutions and other forums till date.
+# Huge managerial experience in Human Rights environment.
 
 	Exceptional knowledge of human rights issues in cultural, social and economic spheres.
 	Sound knowledge of institutional mandate and policies pertaining to Human Rights procedures.
@@ -29,6 +29,7 @@ University of Arid Agriculture Rawalpindi, Pakistan
 7.	Artifical Intelligence(AI)-fundamentals from becode.org Brussels
 8. I’m currently learning the front End Development to switch my career in tec industry in Belgium......
 
+# Contact : sajid_abbasi2000@yahoo.com
 
 
 
