@@ -13,7 +13,10 @@
 	Briefings and meetings with members European parliament and members Belgium Parliament.
 	Peacefully advocating for the basic human rights, briefing and meeting with high level delegations, and diplomats regarding fundamental human rights including immediate needs of people of Jammu and Kashmir currently administrated by Pakistan.
 	Social Media Activist (Facebook, Twitter, X, Tiktok etc.)
+# Member of Central Committee of United Kashmir People's National Party(UKPNP)
+# Secretary Information, UKPNP Europe Zone
 # Additional Representative of CIRAC at UNHRC at Geneva till date (Volunteer)
+European Union Institutions and other forums UNHRC Geneva till date
 #    IT PROFESSIONAL 
 Master of ComputerScience (M.C.S), 2002-2004,
 (Equivalent to Flemish Bachelor’s Degree)
@@ -29,24 +32,28 @@ University of Arid Agriculture Rawalpindi, Pakistan
 7.	Artifical Intelligence(AI)-fundamentals from becode.org Brussels
 8. I’m currently learning the front End Development to switch my career in tec industry in Belgium......
 
-# Contact : sajid_abbasi2000@yahoo.com
+## LANGUAGES
 
+1.   ENGLISH (IELTS)
+2.  FRENCH 1.1
+3.  Nederland’s 1.2
+4.  URDU
+5.  Pahari
 
+## PERSONAL information
 
+| NAME             | Sajid Hussain                                                  |
+| ---------------- | -------------------------------------------------------------- |
+| FATHER NAME:     | Sabir Hussain Khan                                             |
+| GENDER:          | Male                                                           |
+| MARITAL STATUS:  | Married                                                        |
+| Legal Status:    | Belgium National                                               |
+| E-MAIL ADDRESS:  | sajid_abbasi2000@yahoo.com                                     |
 
+## My hobbies
 
-
-<!--
-**SajidHussainabbasi/SajidHussainabbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Politics
+2. Cricket
+3. Diplomatic practice and world affairs
+ 
+![Sajid Hussain GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidHussainabbasi&show_icons=true)
